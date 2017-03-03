@@ -17,5 +17,5 @@ Pod::Spec.new do |s|
     s.ios.spec.weak_frameworks = 'CoreGraphics', 'CoreVideo', 'QuartzCore'
     s.ios.dependency 'Firebase/Storage'
     s.ios.source_files = 'Corder.framework/Headers/Corder.h'
-    s.source = { :git => 'https://github.com/kirillkudin/corder/', :tag => 'v1.0.4'}
+    s.source = { :git => 'https://github.com/kirillkudin/corder.git', :tag => 'v1.0.4'}
 end
