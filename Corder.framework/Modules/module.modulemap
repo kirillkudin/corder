@@ -1,0 +1,6 @@
+framework module Corder {
+  umbrella header "Corder.h"
+
+  export *
+  module * { export * }
+}
