@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
     s.author = 'Corder Team'
     s.name = 'Corder'
-    s.version = '1.0.4'
+    s.version = '1.0.5'
     s.requires_arc = true
     s.license = { :type => 'Copyright', :text => 'Copyright 2017 Corder' }
     s.homepage = 'http://corder.8tricks.com'
@@ -17,5 +17,5 @@ Pod::Spec.new do |s|
     s.ios.spec.weak_frameworks = 'CoreGraphics', 'CoreVideo', 'QuartzCore'
     s.ios.dependency 'Firebase/Storage'
     s.ios.source_files = 'Corder.framework/Headers/Corder.h'
-    s.source = { :git => 'https://github.com/kirillkudin/corder.git', :tag => 'v1.0.4'}
+    s.source = { :git => 'https://github.com/kirillkudin/corder.git', :tag => 'v1.0.5'}
 end
