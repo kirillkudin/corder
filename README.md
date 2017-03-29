@@ -1,4 +1,4 @@
-Mobile analytics platform which provides in-depth analysis of your users' behavior, allowing you to deliver the ultimate app experience ( https://www.corder.io)
+Mobile analytics platform which provides in-depth analysis of your users' behavior, allowing you to deliver the ultimate app experience (https://www.corder.io)
 
 Corder
 ===
