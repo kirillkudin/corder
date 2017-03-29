@@ -1,12 +1,12 @@
-Mobile analytics platform which provides in-depth analysis of your users' behavior, allowing you to deliver the ultimate app experience ( http://corder.8tricks.com)
+Mobile analytics platform which provides in-depth analysis of your users' behavior, allowing you to deliver the ultimate app experience ( https://www.corder.io)
 
 Corder
 ===
 Video sessions &amp; analytics for iOS. Corder supports iOS 9.0+
 
-**Note:** To start usign SDK you you should register your app and obtain API key on http://corder.8tricks.com
+**Note:** To start usign SDK you you should register your app and obtain API key on https://www.corder.io
 
-![](http://corder.8tricks.com/content/corder-demo.gif)
+![](https://www.corder.io/content/corder-demo.gif)
 
 Add a Corder SDK
 ---
