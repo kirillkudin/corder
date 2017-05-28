@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Mobile analytics platform which provides in-depth analysis of your users' behavior, allowing you to deliver the ultimate app experience https://www.corder.io
+=======
+Mobile analytics platform which provides in-depth analysis of your users' behavior, allowing you to deliver the ultimate app experience (https://www.corder.io)
+>>>>>>> 9e09ace8011021c184ea5f22713ec637aa2ffa6f
 
 Corder
 ===
